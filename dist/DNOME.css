@@ -117,7 +117,6 @@ div[class*=layer-]>div[class*=standardSidebarView-]>div[class*=sidebarRegion-]>d
 div[class*=layer-]>div[class*=standardSidebarView-]>div[class*=sidebarRegion-]>div[class*=sidebarRegionScroller-]>nav[class*=sidebar-]>div[class*=side-]>div[class*=info-]:before{
     content:"DNOME v3.0.1 - INKnight Fork";
     text-transform:none;
-    color:#000;
     font-family:monospace;
     font-size:12px;
     line-height:16px
